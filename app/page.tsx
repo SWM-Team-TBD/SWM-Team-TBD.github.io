@@ -60,7 +60,7 @@ export default function LandingPage() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="w-full py-24 md:py-5 overflow-hidden relative">
+        <section className="w-full py-24 lg:py-5 overflow-hidden relative">
           {/* Background decoration */}
           <div className="absolute inset-0 bg-gradient-to-b from-sky-50/50 to-white pointer-events-none"></div>
 
